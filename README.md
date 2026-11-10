@@ -66,8 +66,5 @@ You can import _preset.xmp into Lightroom as a preset and apply it to your photo
 Lightroom Classic: Presets panel, "+" icon, Import Presets
 Lightroom (cloud / mobile): Presets, three-dot menu, Import Presets
 
-Note: the analysis text is written in Turkish by default. To get it in English, change the word "Turkish" to "English" near the end of the SYSTEM prompt in the code
-
-Usage
-
+Note: the analysis text is written in Turkish by default. To get it in English, change the word "Turkish" to "English" near the end of the SYSTEM prompt in the code.
 
